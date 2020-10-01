@@ -1,4 +1,4 @@
-# BilSwap
+# BilSwap : An effective Course Exchanging Program
 
 What is BilSwap?
 
@@ -7,11 +7,11 @@ By the cycle algorithm, the program creates all possible matches like not only o
 
 
 How it works?
+*Download mongoDb java 3.4 driver and run the Login.java by any IDE.
 
- Download mongoDb java 3.4 driver and run the Login.java by any IDE.
 
-Online Database
 
-To connect online database, go dbAction.java, comment the line specified and uncomment below this line.
+Online Database :
+*To connect online database, go dbAction.java, comment the line specified and uncomment below this line.
 
 
